@@ -19,7 +19,7 @@
 ![image](https://github.com/sakthipriyadhanusu/DBMS/assets/119393194/d7a6334e-fa7d-46f5-a169-74488f6eac6b)
 
 ### SQL DDL Schema 
-
+```
 CREATE TABLE COLLEGE
 (
   Coffice INT NOT NULL,
@@ -81,7 +81,7 @@ CREATE TABLE SECTION
   daystime INT NOT NULL,
   PRIMARY KEY (Secid)
 );
-
+```
 ## RESULT 
 <div align="justify">
 Thus the ER diagram was drawn and relational diagram, SQL DDL staements are generated using ERD plus tool.
