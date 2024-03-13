@@ -52,28 +52,31 @@ add department char(80);
 ### 3) Rename the student table to mystudent
 
 ### SQL QUERY: 
+```
 alter table students rename to mystudent;
-
+```
 ### OUTPUT:
 ![Screenshot 2024-03-13 111815](https://github.com/sakthipriyadhanusu/DBMS/assets/119393194/a26a4b95-77f2-458c-a9d0-338e2649c32d)
 
 ### 4) Delete the mystudent rows using truncate keyword
 
 ### SQL QUERY: 
+```
 truncate table students
-
+```
 ### OUTPUT:
 ![Screenshot 2024-03-13 112315](https://github.com/sakthipriyadhanusu/DBMS/assets/119393194/817ce03a-f376-4cce-ae60-dbb906eaadba)
 
 ### 5) Drop the mystudent table
  
 ### SQL QUERY: 
+```
 drop table students;
-
+```
 ### OUTPUT:
 ![Screenshot 2024-03-13 112315](https://github.com/sakthipriyadhanusu/DBMS/assets/119393194/54dcf9fb-3137-4e6a-8119-d005c29705b6)
 
-## RESULT:
+### RESULT:
 Thus the DDL queries using SQL is executed.
 
 
